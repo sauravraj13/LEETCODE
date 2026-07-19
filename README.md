@@ -12,6 +12,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/sauravraj13/LEETCODE/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2906-construct-product-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/sauravraj13/LEETCODE/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2906-construct-product-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 <!---LeetCode Topics End-->
