@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/sauravraj13/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/sauravraj13/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravraj13/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -22,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/sauravraj13/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
