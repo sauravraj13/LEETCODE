@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/sauravraj13/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sauravraj13/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0066-plus-one](https://github.com/sauravraj13/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -60,6 +61,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sauravraj13/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sauravraj13/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -90,6 +92,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sauravraj13/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/sauravraj13/LEETCODE/tree/main/0134-gas-station/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
