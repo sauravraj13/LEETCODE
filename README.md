@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/sauravraj13/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sauravraj13/LEETCODE/tree/main/0018-4sum/) | Medium |
+| [0045-jump-game-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0066-plus-one](https://github.com/sauravraj13/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0134-gas-station](https://github.com/sauravraj13/LEETCODE/tree/main/0134-gas-station/) | Medium |
@@ -94,6 +95,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sauravraj13/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0134-gas-station](https://github.com/sauravraj13/LEETCODE/tree/main/0134-gas-station/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 <!---LeetCode Topics End-->
