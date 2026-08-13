@@ -82,6 +82,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sauravraj13/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/sauravraj13/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [0050-powx-n](https://github.com/sauravraj13/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/sauravraj13/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
@@ -111,4 +112,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/sauravraj13/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/sauravraj13/LEETCODE/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
