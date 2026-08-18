@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/sauravraj13/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sauravraj13/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/sauravraj13/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/sauravraj13/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0134-gas-station](https://github.com/sauravraj13/LEETCODE/tree/main/0134-gas-station/) | Medium |
@@ -49,6 +50,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/sauravraj13/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -85,6 +87,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sauravraj13/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/sauravraj13/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [0048-rotate-image](https://github.com/sauravraj13/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/sauravraj13/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/sauravraj13/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/sauravraj13/LEETCODE/tree/main/0069-sqrtx/) | Easy |
