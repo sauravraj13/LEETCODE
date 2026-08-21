@@ -1,16 +1,20 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        int n = nums.size();
+        
+        
+        unordered_map<int,int>freq;
+        for(int i =0;i<n;i++){
+            freq[nums[i]]++;
 
-        int ans = 1;
-
-        for(int i = 0; i < nums.size(); i++) {
-            if(nums[i] == ans) {
-                ans++;
+        }
+        for(int i = 1;i<=n;i++){
+            
+            if(freq[i]==0){
+                return i;
             }
         }
-
-        return ans;
+        return n+1;
     }
 };
