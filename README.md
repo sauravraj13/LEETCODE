@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/sauravraj13/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0134-gas-station](https://github.com/sauravraj13/LEETCODE/tree/main/0134-gas-station/) | Medium |
+| [0137-single-number-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sauravraj13/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -154,6 +155,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sauravraj13/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/sauravraj13/LEETCODE/tree/main/0342-power-of-four/) | Easy |
 ## Newton's Method
