@@ -105,6 +105,7 @@
 | [0066-plus-one](https://github.com/sauravraj13/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/sauravraj13/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/sauravraj13/LEETCODE/tree/main/0258-add-digits/) | Easy |
+| [0292-nim-game](https://github.com/sauravraj13/LEETCODE/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/sauravraj13/LEETCODE/tree/main/0342-power-of-four/) | Easy |
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -177,5 +178,22 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/sauravraj13/LEETCODE/tree/main/0292-nim-game/) | Easy |
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sauravraj13/LEETCODE/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sauravraj13/LEETCODE/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sauravraj13/LEETCODE/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sauravraj13/LEETCODE/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
