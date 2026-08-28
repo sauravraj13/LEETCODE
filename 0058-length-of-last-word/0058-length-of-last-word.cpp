@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int lengthOfLastWord(string s) {
+         int n = s.size();
+        int r=n-1;
+        int count =0;
+        while(r>=0&&s[r]==' '){
+            r--;
+        }
+        while(r>=0&&s[r]!=' '){
+            r--;
+            count++;
+
+        }
+        
+        return count;
+    }
+};
