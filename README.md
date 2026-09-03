@@ -29,6 +29,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sauravraj13/LEETCODE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sauravraj13/LEETCODE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sauravraj13/LEETCODE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
