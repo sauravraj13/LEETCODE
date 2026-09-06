@@ -137,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0115-distinct-subsequences](https://github.com/sauravraj13/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/sauravraj13/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0058-length-of-last-word](https://github.com/sauravraj13/LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
+| [0115-distinct-subsequences](https://github.com/sauravraj13/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
