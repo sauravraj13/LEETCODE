@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/sauravraj13/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0134-gas-station](https://github.com/sauravraj13/LEETCODE/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/sauravraj13/LEETCODE/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -131,6 +132,7 @@
 | [0011-container-with-most-water](https://github.com/sauravraj13/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0134-gas-station](https://github.com/sauravraj13/LEETCODE/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/sauravraj13/LEETCODE/tree/main/0135-candy/) | Hard |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 ## Dynamic Programming
