@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/sauravraj13/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/sauravraj13/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0090-subsets-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 | [0134-gas-station](https://github.com/sauravraj13/LEETCODE/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/sauravraj13/LEETCODE/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
@@ -190,6 +191,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sauravraj13/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/sauravraj13/LEETCODE/tree/main/0342-power-of-four/) | Easy |
@@ -243,4 +245,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/sauravraj13/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
