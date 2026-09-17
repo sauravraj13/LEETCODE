@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sauravraj13/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravraj13/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/sauravraj13/LEETCODE/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/sauravraj13/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sauravraj13/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravraj13/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -154,6 +157,7 @@
 | [0045-jump-game-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sauravraj13/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravraj13/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Hash Table
@@ -163,6 +167,7 @@
 | [0041-first-missing-positive](https://github.com/sauravraj13/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/sauravraj13/LEETCODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravraj13/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
