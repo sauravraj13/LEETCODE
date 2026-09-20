@@ -178,6 +178,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sauravraj13/LEETCODE/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/sauravraj13/LEETCODE/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/sauravraj13/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0058-length-of-last-word](https://github.com/sauravraj13/LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/sauravraj13/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
