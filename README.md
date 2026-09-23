@@ -262,4 +262,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sauravraj13/LEETCODE/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/sauravraj13/LEETCODE/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
