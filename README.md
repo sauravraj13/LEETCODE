@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sauravraj13/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravraj13/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sauravraj13/LEETCODE/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/sauravraj13/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sauravraj13/LEETCODE/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
