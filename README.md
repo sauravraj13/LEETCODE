@@ -156,6 +156,7 @@
 | [0135-candy](https://github.com/sauravraj13/LEETCODE/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/sauravraj13/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sauravraj13/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravraj13/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
@@ -190,6 +191,7 @@
 | [0058-length-of-last-word](https://github.com/sauravraj13/LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/sauravraj13/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/sauravraj13/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sauravraj13/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravraj13/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -276,4 +278,12 @@
 | [0175-combine-two-tables](https://github.com/sauravraj13/LEETCODE/tree/main/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/sauravraj13/LEETCODE/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/sauravraj13/LEETCODE/tree/main/0183-customers-who-never-order/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sauravraj13/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sauravraj13/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
