@@ -191,6 +191,7 @@
 | [0058-length-of-last-word](https://github.com/sauravraj13/LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/sauravraj13/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/sauravraj13/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/sauravraj13/LEETCODE/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sauravraj13/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
@@ -251,6 +252,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sauravraj13/LEETCODE/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/sauravraj13/LEETCODE/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
