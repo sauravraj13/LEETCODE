@@ -17,6 +17,7 @@
 | [0134-gas-station](https://github.com/sauravraj13/LEETCODE/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/sauravraj13/LEETCODE/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
+| [0169-majority-element](https://github.com/sauravraj13/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sauravraj13/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -108,6 +109,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/sauravraj13/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sauravraj13/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/sauravraj13/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/sauravraj13/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/sauravraj13/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/sauravraj13/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -175,6 +178,7 @@
 | [0012-integer-to-roman](https://github.com/sauravraj13/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0041-first-missing-positive](https://github.com/sauravraj13/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/sauravraj13/LEETCODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/sauravraj13/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/sauravraj13/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -293,4 +297,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sauravraj13/LEETCODE/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sauravraj13/LEETCODE/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
