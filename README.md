@@ -37,6 +37,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravraj13/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sauravraj13/LEETCODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sauravraj13/LEETCODE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sauravraj13/LEETCODE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -225,6 +226,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sauravraj13/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/sauravraj13/LEETCODE/tree/main/0342-power-of-four/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sauravraj13/LEETCODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
