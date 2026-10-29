@@ -41,6 +41,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravraj13/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sauravraj13/LEETCODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sauravraj13/LEETCODE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sauravraj13/LEETCODE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sauravraj13/LEETCODE/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -132,6 +133,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/sauravraj13/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sauravraj13/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravraj13/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sauravraj13/LEETCODE/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -236,6 +239,7 @@
 | [0342-power-of-four](https://github.com/sauravraj13/LEETCODE/tree/main/0342-power-of-four/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sauravraj13/LEETCODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sauravraj13/LEETCODE/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -331,9 +335,22 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sauravraj13/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravraj13/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sauravraj13/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravraj13/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
