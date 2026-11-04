@@ -37,6 +37,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravraj13/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravraj13/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sauravraj13/LEETCODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -60,10 +61,12 @@
 | [0643-maximum-average-subarray-i](https://github.com/sauravraj13/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sauravraj13/LEETCODE/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sauravraj13/LEETCODE/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -154,6 +157,7 @@
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sauravraj13/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sauravraj13/LEETCODE/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/sauravraj13/LEETCODE/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -191,6 +195,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravraj13/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/sauravraj13/LEETCODE/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sauravraj13/LEETCODE/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
@@ -205,6 +210,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravraj13/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sauravraj13/LEETCODE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
