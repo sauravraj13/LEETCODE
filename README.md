@@ -28,6 +28,7 @@
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sauravraj13/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sauravraj13/LEETCODE/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -82,6 +83,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sauravraj13/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravraj13/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Matrix
@@ -119,6 +121,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/sauravraj13/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravraj13/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -131,6 +134,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/sauravraj13/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/sauravraj13/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
