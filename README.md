@@ -33,6 +33,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/sauravraj13/LEETCODE/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/sauravraj13/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sauravraj13/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2906-construct-product-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -62,6 +63,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sauravraj13/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sauravraj13/LEETCODE/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/sauravraj13/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -135,6 +137,7 @@
 | [0455-assign-cookies](https://github.com/sauravraj13/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/sauravraj13/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/sauravraj13/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -212,6 +215,7 @@
 | [0242-valid-anagram](https://github.com/sauravraj13/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/sauravraj13/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravraj13/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
