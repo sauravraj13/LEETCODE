@@ -31,6 +31,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/sauravraj13/LEETCODE/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/sauravraj13/LEETCODE/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/sauravraj13/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sauravraj13/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/sauravraj13/LEETCODE/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sauravraj13/LEETCODE/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Monotonic Queue
