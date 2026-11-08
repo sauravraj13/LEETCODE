@@ -27,6 +27,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravraj13/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sauravraj13/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sauravraj13/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sauravraj13/LEETCODE/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sauravraj13/LEETCODE/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravraj13/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -97,6 +98,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravraj13/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sauravraj13/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sauravraj13/LEETCODE/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/sauravraj13/LEETCODE/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -302,6 +304,7 @@
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sauravraj13/LEETCODE/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sauravraj13/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sauravraj13/LEETCODE/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravraj13/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Quicksort
@@ -349,6 +352,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sauravraj13/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/sauravraj13/LEETCODE/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,12 +361,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sauravraj13/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sauravraj13/LEETCODE/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravraj13/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sauravraj13/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sauravraj13/LEETCODE/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravraj13/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
