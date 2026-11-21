@@ -43,6 +43,7 @@
 | [2906-construct-product-matrix](https://github.com/sauravraj13/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sauravraj13/LEETCODE/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sauravraj13/LEETCODE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravraj13/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -238,6 +239,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/sauravraj13/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sauravraj13/LEETCODE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravraj13/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sauravraj13/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -259,6 +261,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravraj13/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sauravraj13/LEETCODE/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sauravraj13/LEETCODE/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sauravraj13/LEETCODE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sauravraj13/LEETCODE/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sauravraj13/LEETCODE/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -381,6 +384,7 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sauravraj13/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/sauravraj13/LEETCODE/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sauravraj13/LEETCODE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravraj13/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Union-Find
@@ -392,6 +396,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sauravraj13/LEETCODE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravraj13/LEETCODE/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
