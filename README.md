@@ -44,6 +44,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sauravraj13/LEETCODE/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sauravraj13/LEETCODE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sauravraj13/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sauravraj13/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravraj13/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -72,6 +73,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sauravraj13/LEETCODE/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sauravraj13/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/sauravraj13/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sauravraj13/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -180,6 +182,7 @@
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sauravraj13/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sauravraj13/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sauravraj13/LEETCODE/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -190,6 +193,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sauravraj13/LEETCODE/tree/main/0258-add-digits/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sauravraj13/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -338,6 +342,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sauravraj13/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sauravraj13/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravraj13/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/sauravraj13/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Geometry
