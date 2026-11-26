@@ -125,6 +125,7 @@
 | [0258-add-digits](https://github.com/sauravraj13/LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sauravraj13/LEETCODE/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sauravraj13/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/sauravraj13/LEETCODE/tree/main/3360-stone-removal-game/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravraj13/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -184,6 +185,7 @@
 | [1927-sum-game](https://github.com/sauravraj13/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sauravraj13/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/sauravraj13/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3360-stone-removal-game](https://github.com/sauravraj13/LEETCODE/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sauravraj13/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sauravraj13/LEETCODE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sauravraj13/LEETCODE/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
